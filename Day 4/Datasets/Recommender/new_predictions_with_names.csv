@@ -1,0 +1,11 @@
+UserID,User Name,ItemID,Item Name,Category
+U001,Alice,M042,The Godfather,Movie
+U002,Bob,M013,The Shawshank Redemption,Movie
+U003,Charlie,M027,Pulp Fiction,Movie
+U004,Diana,P015,Leather Jacket,Fashion
+U005,Emma,P008,Mechanical Keyboard,Electronics
+U006,Frank,I031,Dyson Vacuum Cleaner,Home
+U007,Grace,I019,The Hobbit,Book
+U008,Henry,P024,Cast Iron Skillet,Kitchen
+U009,Ivy,I036,Fitbit Tracker,Fitness
+U010,Jack,M011,Goodfellas,Movie

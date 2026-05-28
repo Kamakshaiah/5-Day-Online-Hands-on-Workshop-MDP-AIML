@@ -1,0 +1,39 @@
+UserID,User Name,ItemID,Product Name,Category,Rating,Timestamp
+U001,Alice,P101,Wireless Headphones,Electronics,5,2024-01-15
+U001,Alice,P102,Stainless Steel Water Bottle,Kitchen,4,2024-01-15
+U001,Alice,P103,Yoga Mat,Fitness,3,2024-01-20
+U001,Alice,P104,Smart Watch,Electronics,5,2024-01-22
+U002,Bob,P101,Wireless Headphones,Electronics,4,2024-01-10
+U002,Bob,P103,Yoga Mat,Fitness,5,2024-01-12
+U002,Bob,P105,Coffee Maker,Kitchen,3,2024-01-18
+U002,Bob,P106,Running Shoes,Fitness,4,2024-01-20
+U003,Charlie,P102,Stainless Steel Water Bottle,Kitchen,5,2024-01-05
+U003,Charlie,P104,Smart Watch,Electronics,4,2024-01-08
+U003,Charlie,P105,Coffee Maker,Kitchen,2,2024-01-12
+U003,Charlie,P107,Backpack,Accessories,5,2024-01-15
+U004,Diana,P101,Wireless Headphones,Electronics,3,2024-01-14
+U004,Diana,P102,Stainless Steel Water Bottle,Kitchen,5,2024-01-16
+U004,Diana,P106,Running Shoes,Fitness,4,2024-01-18
+U004,Diana,P108,Desk Lamp,Home,5,2024-01-22
+U005,Emma,P103,Yoga Mat,Fitness,4,2024-01-09
+U005,Emma,P104,Smart Watch,Electronics,3,2024-01-11
+U005,Emma,P107,Backpack,Accessories,5,2024-01-15
+U005,Emma,P109,Bluetooth Speaker,Electronics,4,2024-01-18
+U006,Frank,P101,Wireless Headphones,Electronics,5,2024-01-07
+U006,Frank,P105,Coffee Maker,Kitchen,4,2024-01-10
+U006,Frank,P108,Desk Lamp,Home,3,2024-01-14
+U006,Frank,P110,Protein Powder,Fitness,5,2024-01-18
+U007,Grace,P102,Stainless Steel Water Bottle,Kitchen,4,2024-01-13
+U007,Grace,P104,Smart Watch,Electronics,5,2024-01-16
+U007,Grace,P106,Running Shoes,Fitness,3,2024-01-19
+U007,Grace,P109,Bluetooth Speaker,Electronics,4,2024-01-23
+U008,Henry,P103,Yoga Mat,Fitness,5,2024-01-08
+U008,Henry,P107,Backpack,Accessories,4,2024-01-11
+U008,Henry,P108,Desk Lamp,Home,5,2024-01-15
+U009,Ivy,P101,Wireless Headphones,Electronics,4,2024-01-12
+U009,Ivy,P105,Coffee Maker,Kitchen,5,2024-01-14
+U009,Ivy,P109,Bluetooth Speaker,Electronics,3,2024-01-17
+U010,Jack,P102,Stainless Steel Water Bottle,Kitchen,5,2024-01-06
+U010,Jack,P104,Smart Watch,Electronics,4,2024-01-09
+U010,Jack,P106,Running Shoes,Fitness,5,2024-01-13
+U010,Jack,P110,Protein Powder,Fitness,4,2024-01-17

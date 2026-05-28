@@ -1,0 +1,31 @@
+UserID,User Name,ItemID,Item Name,Category,Rating,Feedback
+U001,John Smith,I001,Apple iPhone 15 Pro,Electronics,5,Excellent phone
+U001,John Smith,I002,Samsung 65" TV,Electronics,4,Great picture
+U001,John Smith,I003,Nike Air Max,Fashion,3,Runs small
+U002,Sarah Lee,I001,Apple iPhone 15 Pro,Electronics,4,Good battery
+U002,Sarah Lee,I003,Nike Air Max,Fashion,5,Very comfortable
+U002,Sarah Lee,I004,Sony Headphones,Electronics,4,Noise cancellation good
+U003,Mike Brown,I002,Samsung 65" TV,Electronics,5,Love the smart features
+U003,Mike Brown,I004,Sony Headphones,Electronics,3,Average sound
+U003,Mike Brown,I005,Instant Pot,Kitchen,5,Life changing
+U004,Lisa Wong,I001,Apple iPhone 15 Pro,Electronics,3,Too expensive
+U004,Lisa Wong,I003,Nike Air Max,Fashion,4,Stylish
+U004,Lisa Wong,I005,Instant Pot,Kitchen,4,Good for meal prep
+U005,David Kim,I002,Samsung 65" TV,Electronics,4,Good value
+U005,David Kim,I004,Sony Headphones,Electronics,5,Best I've owned
+U005,David Kim,I006,Kindle Paperwhite,Books,5,Love reading on it
+U006,Emma Davis,I001,Apple iPhone 15 Pro,Electronics,5,Perfect phone
+U006,Emma Davis,I005,Instant Pot,Kitchen,3,Complicated to use
+U006,Emma Davis,I006,Kindle Paperwhite,Books,4,Battery lasts long
+U007,Chris Wilson,I002,Samsung 65" TV,Electronics,3,Software is slow
+U007,Chris Wilson,I003,Nike Air Max,Fashion,4,Good for running
+U007,Chris Wilson,I004,Sony Headphones,Electronics,4,Solid build
+U008,Anna Martinez,I001,Apple iPhone 15 Pro,Electronics,4,Camera is great
+U008,Anna Martinez,I005,Instant Pot,Kitchen,5,Use it daily
+U008,Anna Martinez,I006,Kindle Paperwhite,Books,5,Game changer
+U009,Tom Anderson,I002,Samsung 65" TV,Electronics,5,Great for gaming
+U009,Tom Anderson,I003,Nike Air Max,Fashion,3,Not true to size
+U009,Tom Anderson,I004,Sony Headphones,Electronics,5,Excellent sound
+U010,Rachel Green,I001,Apple iPhone 15 Pro,Electronics,4,Fast processor
+U010,Rachel Green,I005,Instant Pot,Kitchen,4,Makes cooking easy
+U010,Rachel Green,I006,Kindle Paperwhite,Books,5,Perfect for travel

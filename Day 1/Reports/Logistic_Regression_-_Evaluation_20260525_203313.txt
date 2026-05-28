@@ -1,0 +1,47 @@
+================================================================================\nLogistic Regression - Evaluation\n================================================================================\n\nGenerated: 2026-05-25 20:33:18\n\n\n--------------------------------------------------------------------------------\nSummary Metrics\n--------------------------------------------------------------------------------\n\n              Metric  Value
+0           Accuracy    1.0
+1  Balanced Accuracy    1.0
+2    Macro Precision    1.0
+3       Macro Recall    1.0
+4     Macro F1 Score    1.0
+5       Test Samples   15.0\n\n\n--------------------------------------------------------------------------------\nConfusion Matrix\n--------------------------------------------------------------------------------\n\n          Pred_0  Pred_1
+Actual_0       9       0
+Actual_1       0       6\n\n\n--------------------------------------------------------------------------------\nConfusion Matrix Details\n--------------------------------------------------------------------------------\n\n   True Negatives  False Positives  False Negatives  True Positives  Accuracy  Balanced Accuracy  Precision (Macro)  Recall (Macro)  F1 Score (Macro)
+0               9                0                0               6       1.0                1.0                1.0             1.0               1.0\n\n\n--------------------------------------------------------------------------------\nClassification Report\n--------------------------------------------------------------------------------\n\n              precision  recall  f1-score  support
+0                   1.0     1.0       1.0      9.0
+1                   1.0     1.0       1.0      6.0
+accuracy            1.0     1.0       1.0      1.0
+macro avg           1.0     1.0       1.0     15.0
+weighted avg        1.0     1.0       1.0     15.0\n\n\n--------------------------------------------------------------------------------\nROC Curve Points\n--------------------------------------------------------------------------------\n\n   False Positive Rate  True Positive Rate
+0                  0.0            0.000000
+1                  0.0            0.166667
+2                  0.0            1.000000
+3                  1.0            1.000000\n\n\n--------------------------------------------------------------------------------\nAUC\n--------------------------------------------------------------------------------\n\n   AUC
+0  1.0\n\n\n--------------------------------------------------------------------------------\nStatistical Estimates\n--------------------------------------------------------------------------------\n\n             Variable  Coefficient  Std. Error  Z-Score  P-Value  CI Lower (95%)  CI Upper (95%)  Odds Ratio Significance
+0           Intercept     0.000197         NaN      NaN      NaN             NaN             NaN    1.000197             
+1                 Age     0.004380         NaN      NaN      NaN             NaN             NaN    1.004390             
+2              Gender     0.000149         NaN      NaN      NaN             NaN             NaN    1.000149             
+3        TenureMonths    -0.000688         NaN      NaN      NaN             NaN             NaN    0.999313             
+4      MonthlyCharges     0.006060         NaN      NaN      NaN             NaN             NaN    1.006078             
+5        TotalCharges    -0.059809         NaN      NaN      NaN             NaN             NaN    0.941945             
+6   NumSupportTickets     0.001071         NaN      NaN      NaN             NaN             NaN    1.001071             
+7     AvgMonthlyUsage     0.045563         NaN      NaN      NaN             NaN             NaN    1.046617             
+8        ContractType     0.000034         NaN      NaN      NaN             NaN             NaN    1.000034             
+9       PaymentMethod    -0.000015         NaN      NaN      NaN             NaN             NaN    0.999985             
+10  HasOnlineSecurity    -0.000347         NaN      NaN      NaN             NaN             NaN    0.999653             
+11     HasTechSupport     0.000030         NaN      NaN      NaN             NaN             NaN    1.000030             \n\n\n--------------------------------------------------------------------------------\nTest Set Predictions\n--------------------------------------------------------------------------------\n\n    Index  Actual  Predicted
+0      13       0          0
+1      39       0          0
+2      30       1          1
+3      45       0          0
+4      17       1          1
+5      48       0          0
+6      26       0          0
+7      25       1          1
+8      32       0          0
+9      19       0          0
+10     12       1          1
+11      4       0          0
+12     37       0          0
+13      8       1          1
+14      3       1          1\n\n
